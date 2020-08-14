@@ -1,4 +1,3 @@
-/* UNADM - FUNDAMENTOS DE PROGRAMACIÓN: ASIGNACIÓN A CARGO DEL DOCENTE - PROGRAMA: RESERVACION DE BOLETOS DE AUTOBUS */
 /* ------------------------------------> LIBRERIAS Y DEFINICIONES DE CONSTANTES <--------------------------------------  */
 #include<stdio.h>
 #include<process.h>
